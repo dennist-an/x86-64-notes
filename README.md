@@ -5,3 +5,4 @@
 - [Control Flow Instructions](control-flow.md)
 - [Arithmetic Instructions](arithmetic.md)
 - [Addressing Modes](addressing-modes.md)
+- [Stack Alignment](stack-alignment.md)
